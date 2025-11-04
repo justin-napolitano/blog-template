@@ -1,3 +1,10 @@
 *.env
-*.venv
+*.venv*
 *.venv/*
+
+# Common virtual environment folders
+venv/
+.env/
+.venv/
+env/
+
