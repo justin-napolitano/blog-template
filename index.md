@@ -1,12 +1,26 @@
 ---
-slug: "github-blog-template"
-title: "blog-template"
-repo: "justin-napolitano/blog-template"
-githubUrl: "https://github.com/justin-napolitano/blog-template"
-generatedAt: "2025-11-23T08:25:46.760722Z"
-source: "github-auto"
+slug: github-blog-template
+title: Automating Blog Frontmatter Generation Using Python and OpenAI API
+repo: justin-napolitano/blog-template
+githubUrl: https://github.com/justin-napolitano/blog-template
+generatedAt: '2025-11-23T08:25:46.760722Z'
+source: github-auto
+summary: >-
+  Overview of a Python script that generates structured frontmatter metadata for Markdown blogs
+  using OpenAI's GPT-4 API and environment setup scripts.
+tags:
+  - python
+  - openai
+  - blog-metadata
+  - frontmatter
+  - markdown
+seoPrimaryKeyword: blog frontmatter generation
+seoSecondaryKeywords:
+  - python script
+  - openai api
+  - markdown metadata
+seoOptimized: true
 ---
-
 
 # blog-template: Technical Overview and Implementation Notes
 
@@ -55,3 +69,4 @@ The included shell scripts (`initialize.sh` and its backup) automate environment
 ## Conclusion
 
 This project provides a foundational approach to automating blog metadata management using modern AI tools and Python scripting. It balances practical scripting with integration of external APIs to reduce manual effort and improve content consistency. Future enhancements should focus on robustness, batch processing, and integration into publishing workflows.
+
