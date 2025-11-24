@@ -20,6 +20,12 @@ seoSecondaryKeywords:
   - openai api
   - markdown metadata
 seoOptimized: true
+topicFamily: automation
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The post describes a Python script automating blog frontmatter metadata generation using OpenAI
+  API integration, fitting well with the 'automation' category focused on scripting and content
+  publishing automation, and the example slug 'github-blog-template' matches the post itself.
 ---
 
 # blog-template: Technical Overview and Implementation Notes
@@ -69,4 +75,5 @@ The included shell scripts (`initialize.sh` and its backup) automate environment
 ## Conclusion
 
 This project provides a foundational approach to automating blog metadata management using modern AI tools and Python scripting. It balances practical scripting with integration of external APIs to reduce manual effort and improve content consistency. Future enhancements should focus on robustness, batch processing, and integration into publishing workflows.
+
 
