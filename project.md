@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/blog-template
 generatedAt: '2025-11-24T21:34:05.205Z'
 source: github-auto
 summary: >-
-  A Python template that automates frontmatter metadata generation for technical
-  blogs using OpenAI's API.
+  A Python template for managing technical blog posts with automated metadata
+  generation and environment setup using OpenAI's API.
 tags:
   - python
   - openai
@@ -16,10 +16,11 @@ tags:
   - toml
 seoPrimaryKeyword: python blog template
 seoSecondaryKeywords:
-  - automated blog metadata
-  - openai blog automation
-  - markdown blog template
-  - python blogging tools
+  - automated blog management
+  - metadata generation
+  - openai api integration
+  - markdown frontmatter
+  - python dependencies setup
 seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
