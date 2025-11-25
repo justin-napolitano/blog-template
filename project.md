@@ -1,19 +1,26 @@
 ---
 slug: github-blog-template
 id: github-blog-template
-title: blog-template
+title: Python Blog Template for Automated Metadata Management
 repo: justin-napolitano/blog-template
 githubUrl: https://github.com/justin-napolitano/blog-template
 generatedAt: '2025-11-24T21:34:05.205Z'
 source: github-auto
 summary: >-
-  A Python-based template repository designed to streamline the management of
-  technical blog posts by automating frontmatter metadata generation and
-  environment setup.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  A Python template that automates frontmatter metadata generation for technical
+  blogs using OpenAI's API.
+tags:
+  - python
+  - openai
+  - markdown
+  - toml
+seoPrimaryKeyword: python blog template
+seoSecondaryKeywords:
+  - automated blog metadata
+  - openai blog automation
+  - markdown blog template
+  - python blogging tools
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
