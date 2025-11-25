@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/blog-template
 generatedAt: '2025-11-24T21:34:05.205Z'
 source: github-auto
 summary: >-
-  A Python template for managing technical blog posts with automated metadata
-  generation and environment setup using OpenAI's API.
+  A Python template for managing technical blog posts with automated metadata generation and
+  environment setup using OpenAI's API.
 tags:
   - python
   - openai
@@ -22,8 +22,8 @@ seoSecondaryKeywords:
   - markdown frontmatter
   - python dependencies setup
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: automation
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -93,4 +93,5 @@ pip install openai tomli-w python-dateutil
 - Integrate validation and formatting checks for frontmatter metadata.
 - Expand documentation and provide usage examples.
 - Consider adding CI/CD workflows for automated blog deployment.
+
 
